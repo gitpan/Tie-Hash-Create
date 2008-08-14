@@ -1,4 +1,4 @@
-Tie::Hash::Create                                             version   0.01
+Tie::Hash::Create                                             version   0.02
 
 - Extend Tie::ExtraHash, enables the tie-object to reflect the tied array
 ============================================================================
